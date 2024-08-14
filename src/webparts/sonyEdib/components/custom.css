@@ -1,0 +1,265 @@
+.fieldEditor{
+    padding: 4px 3px; 
+    display: flex;
+}
+.label{
+    -webkit-font-smoothing: antialiased;
+    overflow-wrap: break-word;
+    display: block; 
+    font-size: 12px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: 600;
+    color: #323130;
+    box-sizing: border-box;
+    box-shadow: none;
+    margin: 0;
+    width:150px
+}
+.boardapproverlabel{
+    -webkit-font-smoothing: antialiased;
+    overflow-wrap: break-word;
+    /* display: block;  */
+    font-size: 12px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: 600;
+    color: #323130;
+    box-sizing: border-box;
+    box-shadow: none;
+    margin: 0;
+    width:150px;
+    display: flex;
+    align-items: center;
+
+}
+.labelIcon{
+    color:rgb(164, 38, 44);
+    padding-left: 2px;
+}
+.feildDisplay{
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+    font-size: 12px;
+    font-weight: 400;
+    outline: 0;
+}
+
+.fieldGroup{
+    box-shadow: none;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    /* border: 1px solid rgb(96, 94, 92); */
+    border: 1px solid #323130;
+    border-radius: 2px;
+    background: rgb(255, 255, 255);
+    cursor: text;
+    height: 32px;
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    position: relative;
+    font-size: 12px;
+}
+.fieldGroupAttch{
+    box-shadow: none;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    /* border: 1px solid rgb(96, 94, 92); */
+    border-radius: 2px;
+    background: rgb(255, 255, 255);
+    cursor: text;
+    height: 32px;
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    position: relative;
+    font-size: 12px;
+
+}
+.inputText{
+    border:none;
+    outline: none;
+    width: 100%;
+}
+.dropdwon{
+    display: inline;
+    width: 100%;
+    height: 32px;
+    font-size: 12px;
+    outline:none;
+}
+.radioCheckbox{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    /* align-items: center; */
+}
+.textarea{
+    width:100%;
+    border:1px solid #323130;
+    font-size: 12px;
+    font-weight: 400;
+}
+.Spanbutton{
+    display: flex;
+    justify-content: flex-end;
+    padding: 6px 4px;
+}
+.peoplepicker{
+    box-shadow: none; 
+    box-sizing: border-box;
+    cursor: text;
+    height: auto;
+    position: relative;
+    bottom:1px;
+}
+/* body{
+    background-color: red;
+} */
+input[type="checkbox"]{
+    padding:2% 0;
+}
+.sonyfieldSet{
+    border: 1px solid rgba(128, 128, 128, 0.19);
+    border-radius: 10px;
+    padding: 20px;
+}
+.ApprovarLabel{
+    -webkit-font-smoothing: antialiased;
+    overflow-wrap: break-word;
+    display: block; 
+    font-size: 12px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: 600;
+    color: #323130;
+    box-sizing: border-box;
+    box-shadow: none;
+    margin: 0;
+    margin-right: 2px;
+    width:200px;
+
+}
+.personarow{
+    display: flex;
+    align-items: center;
+}
+.personaCol1{
+    width: 50%;
+}
+.personaCol2{
+    width: 50%;
+}
+.presonaCol2Row{
+    display: flex;
+}
+.presonaCol2col1{
+    width:15%
+}
+.presonaCol2col2{
+    width:80%
+}
+/* .conationer{
+overflow-y: "scroll";
+height: 200
+} */
+.primaryText{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: rgb(50, 49, 48);
+    font-weight: 400;
+    font-size: 13px;
+    /* color: red; */
+}
+.userName{
+    font-size: 12px;
+}
+/* .sonyEdib_{
+    font-size: 12px;
+} */
+.linkIsSelected{
+    color:red;
+
+}
+.ms-Pivot-linkContent span{
+    font-size: 12px;
+}
+
+/* boradapprovers */
+.boardApprConatiner{
+    display: flex;
+    align-items: center;
+    /* margin-left: 5%; */
+
+}
+.boardApprConatinerlabel{
+    display: flex;
+    align-items: center;
+    margin-left: 5%;
+    /* width:100px */
+
+}
+
+.borderStatusContainer{
+    width:100%;
+    display: flex;
+    /* justify-content: space-evenly; */
+    align-items: center;
+}
+.boardStatus{
+    display: inline-block;
+    width: 50%;
+}
+.boardButtons{
+    display: inline-block;
+    width: 50%;
+
+}
+.boardApprbtn{
+    margin: 1%;
+}
+.boardapproverlabel label{
+    
+      margin-left: -9px;
+    
+  }
+.dailogboxfieldEditor{
+    padding: 4px 3px; 
+    display: flex;
+    align-items: center;
+
+}
+.dailogboxlabel{
+    -webkit-font-smoothing: antialiased;
+    overflow-wrap: break-word;
+    display: block; 
+    font-size: 12px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: 600;
+    color: #323130;
+    box-sizing: border-box;
+    box-shadow: none;
+    margin: 0;
+    width:50px
+
+}
+.DibRelfieldEditor{
+    padding: 4px 3px; 
+    display: flex;
+    align-items: center;
+
+}
+
+.ms-Dialog-title{
+    font-size: 16px;
+    padding-bottom: unset;
+}
+
+

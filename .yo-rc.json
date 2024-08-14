@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.18.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.4.1"
+    },
+    "version": "1.16.1",
+    "libraryName": "xenwp-sony-edib",
+    "libraryId": "d5d1cea3-75ae-4f03-8e5b-6d25896b5eb1",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "xenwp-sony-edib",
+    "solutionShortDescription": "xenwp-sony-edib description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

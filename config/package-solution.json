@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "xenwp-Dib-forms-client-side-solution",
+    "id": "d5d1cea3-75ae-4f03-8e5b-6d25896b5ea5",
+    "version": "1.0.0.21",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "Xencia Technology Solutions Pvt",
+      "websiteUrl": "https://www.xencia.com",
+      "privacyUrl": "https://xencia.com/privacy-policy/",
+      "termsOfUseUrl": "https://xencia.com/terms-conditions/",
+      "mpnId": "3065553"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "xenwp eDib forms description"
+      },
+      "longDescription": {
+        "default": "xenwp eDib forms description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "xenwp eDib forms Feature",
+        "description": "The feature that activates elements of the xenwp-sony-edib solution.",
+        "id": "3d75e92e-3e1d-436c-bd1f-eddc6df795a6",
+        "version": "1.0.0.21"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/xenwp-Dib-forms.sppkg"
+  }
+}
